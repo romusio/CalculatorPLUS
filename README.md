@@ -1,7 +1,3 @@
-Вот пример описания для GitHub репозитория вашего JavaFX калькулятора:
-
-***
-
 # JavaFX Calculator App
 
 A modern desktop calculator application built with **JavaFX**. This project demonstrates a clean and user-friendly graphical user interface for basic arithmetic operations featuring a dark theme and responsive buttons.
@@ -52,15 +48,11 @@ Make sure to configure your IDE or build tool with:
 - `src/main/java/calculator/CalculatorApp.java` — Main application code
 - `src/main/resources/calculator/calculator.css` — Stylesheet for UI styling
 
-## Screenshots
-
-*(Add screenshots of the app here if available)*
 
 ## License
 
 This project is licensed under the MIT License.
 
-***
 
-Если нужно, могу помочь с README, добавить badges, инструкции по установке или другие разделы.
+
 
